@@ -1,6 +1,4 @@
-
-jobs:
-  name: Testing
+name: Testing
 on:
   pull_request:
     branches:
